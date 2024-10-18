@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "643842811309",
+    "project_id": "alaminedu-d1123",
+    "storage_bucket": "alaminedu-d1123.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643842811309:android:1fa9229ecde25e667bad24",
+        "android_client_info": {
+          "package_name": "com.example.alaminedu"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdudoDudZ-ixn8cpX_sx5LXFWqKeyc3RY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643842811309:android:01c2fbb50ee1160d7bad24",
+        "android_client_info": {
+          "package_name": "com.example.testnotices"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCdudoDudZ-ixn8cpX_sx5LXFWqKeyc3RY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
