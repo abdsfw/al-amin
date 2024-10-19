@@ -1,6 +1,12 @@
 # alaminedu
 
-A new Flutter project.
+#### You can download the app via the Drive link by scanning the following QR code 
+
+<div>
+  <img src = "https://github.com/abdsfw/al-amin/blob/main/assets/photo/alamin.png" , width = 400>
+</div> 
+
+# A new Flutter project.
 ###### note: This project is for ProgRhyming company, and therefore, files related to the logic, such as the data and manager folders, will be removed. Only the interface files will be displayed.
 
 ###### note: I developed this project in collaboration with a colleague from the company.
